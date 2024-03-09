@@ -19,3 +19,8 @@ This comprehensive dashboard aims to empower the supermarket in tracking its gro
 - Price Calculation: Derived total buying value (quantity buying price) and total selling value (quantity selling price). 
 - Date Extraction: Extracted day, month, and year from the date using day, text, and year functions. 
 
+KEY PERFORMANCE INDICATORS (KPIs):  
+- Profit Percentage 
+- Total Sale 
+- Total Profit 
+<img src="images/KPI.PNG" weight="-100" >
